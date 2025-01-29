@@ -5,3 +5,4 @@ body {
   background-color: var(--bg-color, black);
   color: var(--txt-color-main, white);
 }
+
